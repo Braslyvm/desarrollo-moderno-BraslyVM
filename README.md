@@ -184,7 +184,7 @@ Crea una nueva rama y cambia a ella para trabajar aislado del código principal.
 - JWT (JSON Web Token): Una especie de token que contiene la informacion codificada y firmada, usado para autenticación y autorización segura.
 - OAuth: Es un estándar abierto que permite flujos simples de autorización para sitios web o aplicaciones informáticas.
 ### b. Diagrama de flujo explicativo del proceso de autenticación con JWT
-![alt text](image.png){width=300px}
+![alt text](image.png)
 
 ### c. Buenas prácticas en seguridad web
 - Implantar políticas estrictas de seguridad de contenidos (CSP)
