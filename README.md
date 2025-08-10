@@ -298,12 +298,21 @@ El flujo de despliegue automatizado es un proceso que ayuda a pasar los cambios 
 
 ## 📎 Créditos y referencias
 
-Framework: qué es, para qué sirve y algunos ejemplos. (2022, September 22). Revista UNIR FP. https://unirfp.unir.net/revista/ingenieria-y-tecnologia/framework/
-Atlassian. (n.d.). ¿Qué es el control de versiones? https://www.atlassian.com/es/git/tutorials/what-is-version-control
-Gorohovsky, J. (2024, August 29). GitHub vs. Bitbucket vs. GitLab: Which one is right for your dev team? Rewind. https://rewind.com/blog/github-vs-bitbucket-vs-gitlab-comparison/
-Rudra, A. (2023, November 29). ¿Qué es la seguridad web? Buenas prácticas de seguridad de sitios web. PowerDMARC. https://powerdmarc.com/es/web-security-website-security-explained/
-Huerta, C. (2025, February 11). Los 10 mejores sistemas de autenticación de usuarios para empresas. Nimbus Tech. https://nimbustech.es/productos-servicios/mejores-sistemas-de-autenticacion-de-usuarios-para-empresas/
-Wolff, L. (2023, July 26). Ventajas y desventajas de utilizar APIs con el software SAP Commissions. Canidium. https://www.canidium.com/es/pros-and-cons-of-using-apis-with-sap-commissions
-Stripe. (2023, October 16). Aspectos básicos de las pasarelas de pagos: qué son y qué función desempeñan en el procesamiento de los pagos. https://stripe.com/es/resources/more/payment-gateways-101
-Stripe o PayPal: Desventajas de usarlos en la región. Qué considerar antes de elegir una pasarela de pagos. (2025, June 10). Tilopay. https://connect.tilopay.com/es-cr/stripe-o-paypal/
-Cómo elegir la mejor plataforma de pagos en línea en la región: Claves para negocios que quieren crecer sin fricciones. (2025, July 22). Tilopay. https://connect.tilopay.com/plataformas-de-pago-en-lnea/
+*Framework: qué es, para qué sirve y algunos ejemplos. (2022, September 22). Revista UNIR FP. https://unirfp.unir.net/revista/ingenieria-y-tecnologia/framework/*
+
+*Atlassian. (n.d.). ¿Qué es el control de versiones? https://www.atlassian.com/es/git/tutorials/what-is-version-control*
+
+*Gorohovsky, J. (2024, August 29). GitHub vs. Bitbucket vs. GitLab: Which one is right for your dev team? Rewind. https://rewind.com/blog/github-vs-bitbucket-vs-gitlab-comparison/*
+
+*Rudra, A. (2023, November 29). ¿Qué es la seguridad web? Buenas prácticas de seguridad de sitios web. PowerDMARC. https://powerdmarc.com/es/web-security-website-security-explained/*
+
+*Huerta, C. (2025, February 11). Los 10 mejores sistemas de autenticación de usuarios para empresas. Nimbus Tech. https://nimbustech.es/productos-servicios/mejores-sistemas-de-autenticacion-de-usuarios-para-empresas/*
+
+*Wolff, L. (2023, July 26). Ventajas y desventajas de utilizar APIs con el software SAP Commissions. Canidium. https://www.canidium.com/es/pros-and-cons-of-using-apis-with-sap-commissions*
+
+*Stripe. (2023, October 16). Aspectos básicos de las pasarelas de pagos: qué son y qué función desempeñan en el procesamiento de los pagos. https://stripe.com/es/resources/more/payment-gateways-101*
+
+*Stripe o PayPal: Desventajas de usarlos en la región. Qué considerar antes de elegir una pasarela de pagos. (2025, June 10). Tilopay. https://connect.tilopay.com/es-cr/stripe-o-paypal/*
+
+*Cómo elegir la mejor plataforma de pagos en línea en la región: Claves para negocios que quieren crecer sin fricciones. (2025, July 22). Tilopay. https://connect.tilopay.com/plataformas-de-pago-en-lnea/*
+
