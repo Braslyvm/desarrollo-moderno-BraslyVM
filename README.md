@@ -4,7 +4,7 @@
 *Nombre: Brasly Villarebia Moarales*  
 *Carné: 2023105915*  
 *Curso:* IC-8057 – Introducción al Desarrollo de Páginas Web  
-*Fecha: 8 de agoesto del 2025*  
+*Fecha: 8 de agosto del 2025*  
 
 ---
 
@@ -226,8 +226,7 @@ El contenido se gestiona en el backend y se consume en el frontend mediante APIs
 
 
 ### d. Ejemplo de conexión del frontend a un CMS headless
-
-un exelente ejmplo es react que consume contenido desde un CMS headless como Contentful usando llamadas API para mostrar artículos dinámicos.
+Un excelente ejmplo es react que consume contenido desde un CMS headless como Contentful usando llamadas API para mostrar artículos dinámicos.
 
 ---
 
