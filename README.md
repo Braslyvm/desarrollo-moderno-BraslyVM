@@ -15,14 +15,11 @@ Un framework es un modelo de trabajo que ofrece una base para la creacion de sof
 
 Como se menciona anteriormente facilita la creación de aplicaciones al ofrecer soluciones a problemas comunes y al promover la reutilización de código, lo que resulta en un desarrollo más rápido y eficiente
 
-*Fuente*
-*https://unirfp.unir.net/revista/ingenieria-y-tecnologia/framework/*
 
 **Ejemplo:**
 React Native
 React Native es un framework de programación de aplicaciones nativas multiplataforma que está basado en JavaScript y ReactJS.
 En React existe un “VirtualDOM”, en el que tenemos nuestro JSX, en el cual definimos los documentos HTML, y estos se transforman en componentes del navegador a través de JavaScript.
-![alt text](image.png)
 
 ### b. Arquitectura general y enfoque (MVC, SPA, SSR, etc.)
 React Native utiliza un enfoque basado en componentes similar a una SPA , donde la interfaz se actualiza de forma dinámica sin recargar toda la aplicación.
@@ -134,8 +131,6 @@ Es una práctica de seguimiento que registra los cambios en un proyecto. Al guar
 **¿por qué es esencial?**
 Debido a poder almacenar versiones previas, si sucede un problema se podrá devolver la versión, optimizando el tiempo que llevaría buscar el problema y solucionarlo.
 
-*Fuente*
-*https://www.atlassian.com/es/git/tutorials/what-is-version-control*
 
 ### b. Conceptos clave  
 - Repositorio: Un repositorio es donde se ubica el almacenamiento de los archivos de un proyecto, tambien contiene todas las versiones y su historial de cambios.
@@ -144,8 +139,7 @@ Debido a poder almacenar versiones previas, si sucede un problema se podrá devo
 - Merge: integra los cambios de una Branch en otra, combinando el trabajo de diferentes líneas de desarrollo en una sola. 
 - Pull Request: Es una solicitud para proponer la integración de cambios de una Branch a otra. Permite que los miembros del equipo revisen, comenten y aprueben los cambios antes de realizar el Merge.
 
-*Fuente*
-*https://www.atlassian.com/es/git/glossary#commands*
+
 ### c. Flujos de trabajo comunes  
 - Git Flow: Es un modelo de trabajo en Git que define una estrategia de branching más estructurada. Implica el uso de branch específicas para funcionalidades y múltiples branch principales, con reglas claras sobre cómo y cuándo hacer Merge entre ellas.
 - Trunk-Based : es una practica de control de versiones en la que los desarrolladores fucionan pequeñas actualizaciones de de forma frecuente.
@@ -273,9 +267,41 @@ https://connect.tilopay.com/plataformas-de-pago-en-lnea/
 
 ## 6. Automatización del despliegue y hosting moderno
 ### a. ¿Qué es CI/CD y por qué se usa en desarrollo web?
+CI/CD, que significa Integración Continua / Entrega Continua (Continuous Integration / Continuous Delivery), es un conjunto de prácticas de desarrollo de software que automatizan la integración y entrega de código.
+**En desarrollo web se usa para:**
+- Reducir errores humanos.
+- Acelerar el tiempo de entrega.
+- Garantizar calidad en cada actualización.
 ### b. Hosting estático vs dinámico
+
+| Tipo              | Descripción                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| **Estático**      | Sirve archivos HTML, CSS y JS preconstruidos, sin generación en tiempo real. | 
+| **Dinámico**      | Genera contenido en tiempo real usando código del servidor y, normalmente, una base de datos. | 
 ### c. Flujo de despliegue automatizado
+
+El flujo de despliegue automatizado es un proceso que ayuda a pasar los cambios en el código desde que un desarrollador los termina hasta que se publican en la aplicación en línea, todo de forma automática y rápida.
+
+**Pasos básicos:**
+- Guardar cambios: El desarrollador guarda y sube su código al repositorio (como GitHub).
+- Construir y probar: El sistema crea la aplicación y ejecuta pruebas para asegurarse de que todo funciona bien.
+- Desplegar: Si las pruebas pasan, la aplicación se actualiza automáticamente en el servidor o en la nube.
+- Monitorear: Se revisa que la aplicación funcione correctamente después del despliegue.
+
 ### d. Documentar el proceso seguido para desplegar la parte 2 del laboratorio
+# Pasos a seguir
+1. Crear un repositorio en GitHub con el nombre `desarrollo-moderno-nombre`.
+2. Agregar el archivo `README.md` y el `index.html` proporcionados por el docente.
+3. Realizar commit para que se almacene en el repositorio.
+4. Dirigirse a [https://www.netlify.com/](https://www.netlify.com/).
+5. Iniciar sesión con la cuenta de GitHub.
+6. Seleccionar **Proyectos** en el menú de la izquierda.
+7. Presionar **Agregar nuevo proyecto** y después **Importar un proyecto existente**.
+8. Seleccionar la opción de GitHub.
+9. Escoger el repositorio `desarrollo-moderno-nombre`.
+10. Ingresar un nombre válido para el proyecto y presionar **Desplegar nombredelproyecto**.
+
+
 
 ---
 
