@@ -174,9 +174,6 @@ Crea una nueva rama y cambia a ella para trabajar aislado del código principal.
 - GitLab: Ofrece repositorio git y incluye herraminetas de integracion y gestion de proyectos con seguriidad 
 - Bitbucket: integrado con Atlassian, ideal para equipos de desarrollo que usen administradores de tareas como lo es Jira y Trello, soporta repositorios git y Mercurial.
 
-*Funete*
-*https://rewind.com/blog/github-vs-bitbucket-vs-gitlab-comparison/*
-
 ---
 
 ## 3. Autenticación y seguridad moderna
@@ -187,22 +184,18 @@ Crea una nueva rama y cambia a ella para trabajar aislado del código principal.
 - JWT (JSON Web Token): Una especie de token que contiene la informacion codificada y firmada, usado para autenticación y autorización segura.
 - OAuth: Es un estándar abierto que permite flujos simples de autorización para sitios web o aplicaciones informáticas.
 ### b. Diagrama de flujo explicativo del proceso de autenticación con JWT
+![alt text](image.png)
+
 ### c. Buenas prácticas en seguridad web
 - Implantar políticas estrictas de seguridad de contenidos (CSP)
 - Activar HTTP Strict Transport Security (HSTS)
 - Utilizar la Integridad de Subrecursos (SRI) para guiones externos
 - Implementar la seguridad del DNS (DNSSEC)
-*Fuente*
-*https://powerdmarc.com/es/web-security-website-security-explained/*
 
 
 ### d. Aplicaciones reales en plataformas modernas
 - Aplicaciones como Google, Facebook y Twitter utilizan login social con OAuth para que los desarrolladores accedan a datos de forma segura
 - Algunas plataformas como Firebase Authentication, Auth0 y Okta ofrecen servicios completos de autenticación y autorización para aplicaciones web y móviles.
-
-
-*fuente*
-*https://nimbustech.es/productos-servicios/mejores-sistemas-de-autenticacion-de-usuarios-para-empresas/*
 
 
 ---
@@ -230,8 +223,7 @@ El contenido se gestiona en el backend y se consume en el frontend mediante APIs
 **Limitaciones:** Requiere más trabajo para construir el frontend, dependencia de la API.  
 **Casos comunes:** Aplicaciones web modernas, apps móviles, sitios con múltiples puntos de entrega.
 
-*Fuente*
-*https://www.canidium.com/es/pros-and-cons-of-using-apis-with-sap-commissions*
+
 
 ### d. Ejemplo de conexión del frontend a un CMS headless
 
@@ -243,8 +235,7 @@ un exelente ejmplo es react que consume contenido desde un CMS headless como Con
 ### a. ¿Qué es una pasarela de pago? ¿Qué rol cumple en una aplicación moderna?
 Una pasarela de pago es un servicio qque realiza pagos electronicos, conectando a la aplicación con bancos y sistemas de tarjetas, asegurando transacciones seguras y confiables.
 
-*Fuente*
-*https://stripe.com/es/resources/more/payment-gateways-101*
+
 ### b. Requisitos comunes  
 - Cuenta de comercio: permite realizar pagos en linea.
 - Seguridad: Cumplimiento de estándares como PCI DSS para proteger datos financieros.
@@ -260,9 +251,6 @@ Una pasarela de pago es un servicio qque realiza pagos electronicos, conectando 
 - Bancos: Pasarelas propias con integración directa pero menos flexibilidad.
 - Otras: PayPal, Square, Adyen, entre otras, con diferentes características según región y negocio.
 
-
-https://connect.tilopay.com/es-cr/stripe-o-paypal/
-https://connect.tilopay.com/plataformas-de-pago-en-lnea/ 
 ---
 
 ## 6. Automatización del despliegue y hosting moderno
@@ -300,7 +288,6 @@ El flujo de despliegue automatizado es un proceso que ayuda a pasar los cambios 
 8. Seleccionar la opción de GitHub.
 9. Escoger el repositorio `desarrollo-moderno-nombre`.
 10. Ingresar un nombre válido para el proyecto y presionar **Desplegar nombredelproyecto**.
-
 
 
 ---
